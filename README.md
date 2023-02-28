@@ -5,5 +5,6 @@ https://jas-sin82.github.io/mapty-project/
 HTML, CSS, JavaScript, 3rd party API leaflet. Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps
 https://leafletjs.com/
 #### Project Wireframe
-![](Mapty-architecture-part-1.png)
-![](Mapty-flowchart.png)
+![Project-Architecture](Mapty-architecture-part-1.png)
+
+![Project-FlowChart](Mapty-flowchart.png)
