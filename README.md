@@ -8,3 +8,7 @@ https://leafletjs.com/
 ![Project-Architecture](Mapty-architecture-part-1.png)
 
 ![Project-FlowChart](Mapty-flowchart.png)
+
+#### Add Activites
+To add activities on map! Click any where on map where you want to add activity. Once you clicked on map, form will pop up on window to add activities.
+Once activity has been added the form will hide but the activity will pop up on map.
